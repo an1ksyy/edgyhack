@@ -124,7 +124,7 @@ function App() {
                 className="bg-gradient-to-r from-red-500 to-purple-600 text-white px-8 py-4 rounded-lg font-semibold text-lg flex items-center space-x-2 hover:shadow-lg hover:shadow-red-500/25 transition-all duration-300"
               >
                 <Download className="w-5 h-5" />
-               <a href="https://mega.nz/" target='_blank'><span>Download Now</span></a>
+               <a href="https://mega.nz/file/87IlgAyQ#taIG3YfhifB2YxWqFupAgvYiISZTA6elOMoez49Dluk" target='_blank'><span>Download Now</span></a>
               </motion.button>
               
               <motion.button
